@@ -1,0 +1,3 @@
+#!/usr/bin/bash
+" I,m a tryber and...
+
